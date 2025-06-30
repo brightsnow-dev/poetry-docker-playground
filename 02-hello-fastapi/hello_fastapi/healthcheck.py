@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 """Módulo de checagem de saúde do projeto."""
 
+
+
 import logging
 from fastapi import APIRouter, status
 from pydantic import BaseModel
